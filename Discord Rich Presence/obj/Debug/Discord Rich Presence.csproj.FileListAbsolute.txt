@@ -1,0 +1,10 @@
+C:\Users\toron\source\repos\Discord Rich Presence\bin\Debug\Discord Rich Presence.exe.config
+C:\Users\toron\source\repos\Discord Rich Presence\bin\Debug\Discord Rich Presence.exe
+C:\Users\toron\source\repos\Discord Rich Presence\bin\Debug\Discord Rich Presence.pdb
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord Rich Presence.csprojAssemblyReference.cache
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord_Rich_Presence.Form1.resources
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord_Rich_Presence.Properties.Resources.resources
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord Rich Presence.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord Rich Presence.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord Rich Presence.exe
+C:\Users\toron\source\repos\Discord Rich Presence\obj\Debug\Discord Rich Presence.pdb
