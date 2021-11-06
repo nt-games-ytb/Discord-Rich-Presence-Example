@@ -25,7 +25,7 @@ namespace Discord_Rich_Presence
         {
             //Bot ID
             handlers = default(DiscordRpc.EventHandlers);
-            DiscordRpc.Initialize("771693869087064064", ref this.handlers, true, null);
+            DiscordRpc.Initialize("771693869087064064", ref handlers, true, null);
 
             //Text
             presence.details = "Poop Mod Injector by nt games";
@@ -43,7 +43,7 @@ namespace Discord_Rich_Presence
             presence.startTimestamp = startTimestamp;
 
             //Update
-            DiscordRpc.UpdatePresence(ref this.presence);
+            DiscordRpc.UpdatePresence(ref presence);
         }
     }
 }
